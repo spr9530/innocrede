@@ -13517,6 +13517,7 @@ Timeline Area
 
 .rainbow-splite-style .split-inner {
   padding: 30px 115px;
+  text-align: justify;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -14060,7 +14061,7 @@ Timeline Area
 
 .advance-tab-button-1 .tab-button-list .tab-button .title {
   color: var(--color-body);
-  font-size: 20px;
+  font-size: 17px;
   margin-bottom: 10px;
   transition: 0.3s;
 }
