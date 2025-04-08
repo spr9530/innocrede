@@ -15870,7 +15870,7 @@ iframe {
 .slider-style-1 .inner .description {
   font-family: var(--font-primary);
   padding: 0 22%;
-  font-size: 25px;
+  font-size: 20px;
   line-height: 1.7;
   margin-bottom: 40px;
   color: var(--color-body);
@@ -15962,7 +15962,7 @@ iframe {
 
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
   .slider-style-1.variation-3 .inner .display-two {
-    font-size: 75px;
+    font-size: 60px;
   }
 }
 
@@ -16469,7 +16469,7 @@ iframe {
   font-family: var(--font-primary);
   margin-bottom: 25px;
   display: block;
-  font-size: 80px;
+  font-size: 50px;
   line-height: 1.1;
 }
 
@@ -17526,4 +17526,20 @@ body.active-light-mode .slider-area.bg-transparent .inner button.btn-default.btn
   height: 60px;
   padding: 10px;
   gap: 10px;
+}
+
+.construction-tag {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #ffcc00;
+  color: #000;
+  padding: 10px 20px;
+  margin: 0;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 14px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  z-index: 9999;
+  letter-spacing: 1px;
 }
